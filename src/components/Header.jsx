@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Typical from "react-typical";
 
 const Header = () => {
-    const [ titles, setTitles ] = useState(["Web-Site Comming Soon..."])
+    const [ titles, setTitles ] = useState(["Marketing and Publicity Chairperson..."])
     const HeaderTitleTypeAnimation = React.memo( () => {
       return <Typical className="title-styles" steps={titles} loop={50} />
     }, (props, prevProp) => true);
