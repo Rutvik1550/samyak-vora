@@ -435,6 +435,7 @@ section {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #050d18;
+  font-size: 1.4rem;
 }
 
 .skills .progress .skill .val {
@@ -444,12 +445,12 @@ section {
 
 .skills .progress-bar-wrap {
   background: #dce8f8;
-  height: 10px;
+  height: 15px;
 }
 
 .skills .progress-bar {
   width: 1px;
-  height: 10px;
+  height: 15px;
   transition: 0.9s;
   background-color: #149ddd;
 }

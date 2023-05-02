@@ -64,8 +64,7 @@ const Home = () => {
             <div className="section-title">
               <h2>About</h2>
               <p>
-                Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
+                Samyak is an aspiring Project Manager with a strong interest in Business and Management along with a passion for Technology with a computer engineering background. Hardworking individual who sets foundational goals. Once reached a benchmark, raise the bar and continue striving for greater heights. Always Learning.
               </p>
             </div>
 
@@ -76,7 +75,7 @@ const Home = () => {
               <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                 <h3> Marketing &amp; Publicity Chairperson</h3>
                 <p className="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Publicity and Marketing Chair at International Student Advisory Board, New York University.
                 </p>
                 <div className="row">
                   <div className="col-lg-6">
@@ -193,7 +192,7 @@ const Home = () => {
                     HTML <i className="val">100%</i>
                   </span>
                   <div className="progress-bar-wrap">
-                    <div className="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div className="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style={{width: "100%"}}></div>
                   </div>
                 </div>
 
@@ -202,7 +201,7 @@ const Home = () => {
                     CSS <i className="val">90%</i>
                   </span>
                   <div className="progress-bar-wrap">
-                    <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%"}}></div>
                   </div>
                 </div>
 
@@ -211,7 +210,7 @@ const Home = () => {
                     JavaScript <i className="val">75%</i>
                   </span>
                   <div className="progress-bar-wrap">
-                    <div className="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div className="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style={{width: "75%"}}></div>
                   </div>
                 </div>
               </div>
@@ -222,7 +221,7 @@ const Home = () => {
                     PHP <i className="val">80%</i>
                   </span>
                   <div className="progress-bar-wrap">
-                    <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width: "80%"}}></div>
                   </div>
                 </div>
 
@@ -231,7 +230,7 @@ const Home = () => {
                     WordPress/CMS <i className="val">90%</i>
                   </span>
                   <div className="progress-bar-wrap">
-                    <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width: "90%"}}></div>
                   </div>
                 </div>
 
@@ -240,7 +239,7 @@ const Home = () => {
                     Photoshop <i className="val">55%</i>
                   </span>
                   <div className="progress-bar-wrap">
-                    <div className="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div className="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style={{width: "55%"}}></div>
                   </div>
                 </div>
               </div>
