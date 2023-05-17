@@ -17,8 +17,8 @@ const Header = () => {
                 <Typical steps={["Samyak Vora"]} wrapper="p" />
               </h1>
               <div className="title-container">
-                <Typical steps={["Web-site under development, \n Final Roll out fall-2023..."]} wrapper="p" />
-                {/* <HeaderTitleTypeAnimation /> */}
+                {/* <Typical steps={["Web-site under development, \n Final Roll out fall-2023..."]} wrapper="p" /> */}
+                <HeaderTitleTypeAnimation />
               </div>
               {/* <Switch
                 checked={this.state.checked}
