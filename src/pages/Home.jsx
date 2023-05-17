@@ -112,9 +112,21 @@ const Home = () => {
                   </div>
                 </div>
                 <p>
-                  Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor
-                  incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus
-                  itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+                  <ul>
+                    <li>
+                      Results-oriented aspiring Program Manager with a Master's degree in Management of Technology and a proven track record in
+                      project management, stakeholder engagement, and team leadership.
+                    </li>
+                    <li>
+                      Successfully conducted meetings with investors and stakeholders, resulting in enhanced stakeholder engagement, and facilitated
+                      the smooth onboarding of client accounts, showcasing strong account management skills.
+                    </li>
+                    <li>
+                      Implemented strategic initiatives, such as taking a traditional retail business online, evaluating manufacturing operations, and
+                      establishing connections with medical stores during the Covid-19 crisis, resulting in a 37% YoY sales increase, improved budget
+                      management, and effective crisis management in a fast-paced environment.
+                    </li>
+                  </ul>
                 </p>
               </div>
             </div>
@@ -294,10 +306,10 @@ const Home = () => {
           <div className="container">
             <div className="section-title">
               <h2>Resume</h2>
-              <p>
+              {/* <p>
                 Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
                 quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
-              </p>
+              </p> */}
             </div>
 
             <div className="row">
@@ -421,7 +433,10 @@ const Home = () => {
                   <h5>May 2022 - Present</h5>
                   <ul>
                     <li>Providing various unique experiences for all undergraduate and graduate international students at NYU.</li>
-                    <li>Demonstrated organizational and time-management skills by organizing multiple successful events, with managing my master's study.</li>
+                    <li>
+                      Demonstrated organizational and time-management skills by organizing multiple successful events, with managing my master's
+                      study.
+                    </li>
                   </ul>
                 </div>
 
@@ -429,10 +444,18 @@ const Home = () => {
                   <h4>Core Committee Member and Treasurer | Silver Oak University IEEE SB</h4>
                   <h5>January 2019 - March 2021</h5>
                   <ul>
-                    <li>Introduced internal controls to monitor critical areas of finance and devised many corrective actions to address risks or deficiencies.</li>
-                    <li>Drafted 18 treasury reports and did cash management by overseeing the reconciliation of banking activity during 2019-2020.</li>
+                    <li>
+                      Introduced internal controls to monitor critical areas of finance and devised many corrective actions to address risks or
+                      deficiencies.
+                    </li>
+                    <li>
+                      Drafted 18 treasury reports and did cash management by overseeing the reconciliation of banking activity during 2019-2020.
+                    </li>
                     <li>With my project management skills, I with my team effectively and efficiently completed more than 50 projects/events.</li>
-                    <li>Planned meetings to carry out agreed actions & successfully organized events with my team holding up to 3500+ participants/event.</li>
+                    <li>
+                      Planned meetings to carry out agreed actions & successfully organized events with my team holding up to 3500+
+                      participants/event.
+                    </li>
                     <li>Provided clear updates on program status (Event updates) and implemented recovery plans at all levels.</li>
                   </ul>
                 </div>
@@ -440,7 +463,9 @@ const Home = () => {
                   <h4>Volunteer Member | IEEE, IEEE WIE, and IEEE Consultant Network</h4>
                   <h5>May 2017 - January 2021</h5>
                   <ul>
-                    <li>Managed all aspects of the branch, including membership drive, circulation, marketing, advertising, and new skills development.</li>
+                    <li>
+                      Managed all aspects of the branch, including membership drive, circulation, marketing, advertising, and new skills development.
+                    </li>
                   </ul>
                 </div>
               </div>
